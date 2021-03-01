@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Meneses</h1>
-<h3 align="center">An enthusiastic full-stack developer</h3>
+<h3 align="center">An enthusiastic full-stack developer or nearly so</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imuloo&label=Profile%20views&color=0e75b6&style=flat" alt="imuloo" /> </p>
 
