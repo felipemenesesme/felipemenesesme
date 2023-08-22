@@ -9,8 +9,8 @@
     </h1>
     <ul style="font-size: 18px;">
         <li>Brazilian</li>
-        <li>21 years old</li>
-        <li>Student and Back-end developer at <a href="https://www.atlasinovacoes.com.br/" style="color: red;">Atlas Inovações e Tecnologia</a></li>
+        <li>22 years old</li>
+        <li>Student and Middle Back-end developer at <a href="https://www.atlasinovacoes.com.br/" style="color: red;">Atlas Inovações e Tecnologia</a></li>
         <li>Programming enthusiast</li>
     </ul>
     <p align="start" style="font-size: 18px">
