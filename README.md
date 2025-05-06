@@ -9,8 +9,8 @@
     </h1>
     <ul style="font-size: 18px;">
         <li>Brazilian</li>
-        <li>23 years old</li>
-        <li>Middle Back-end developer at <a href="https://www.atlasinovacoes.com.br/" style="color: red;">Atlas Inovações e Tecnologia</a></li>
+        <li>24 years old</li>
+        <li>Full developer at <a href="https://www.atlasinovacoes.com.br/" style="color: red;">Atlas Inovações e Tecnologia</a></li>
         <li>Programming enthusiast</li>
         <li>Graduated in Systems Analysis and Development.</li>
     </ul>
